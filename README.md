@@ -86,7 +86,24 @@ Diabetes-Care-Ai/
 
 ## 🖼️ Screenshots
 
-> _Add a screenshot or GIF of the prediction flow here to give recruiters/visitors an instant preview._
+<table>
+  <tr>
+    <td align="center"><b>Home</b></td>
+    <td align="center"><b>Input Form</b></td>
+  </tr>
+  <tr>
+    <td><img src="01-homepage.png" width="400"/></td>
+    <td><img src="02-input-form.png" width="400"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Prediction Result</b></td>
+    <td align="center"><b>Personalized Health Tips</b></td>
+  </tr>
+  <tr>
+    <td><img src="03-prediction-result.png" width="400"/></td>
+    <td><img src="04-health-tips.png" width="400"/></td>
+  </tr>
+</table>
 
 ## 🗺️ Roadmap
 
@@ -97,7 +114,7 @@ Diabetes-Care-Ai/
 
 ## 📄 License
 
-This project is open source and available
+This project is open source and available.
 
 ---
 
