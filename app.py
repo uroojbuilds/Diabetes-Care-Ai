@@ -674,7 +674,7 @@ def render_bar_chart(values_dict):
 
 # ─── Helper: Generate Text Report (for download) ──────────────────────────────
 def generate_text_report(values_dict, prediction, confidence, timestamp):
-    lines = [ "Amna Zaheer",
+    lines = [ 
         "=" * 50,
         "       DiabetesCare AI — Health Report",
         "=" * 50,
